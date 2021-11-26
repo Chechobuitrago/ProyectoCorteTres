@@ -20,6 +20,9 @@ echo "<meta http-equiv='refresh' content='0; url=../presentacion/login.html'>";
 	echo "<pre>";
 	var_dump($e);
 	echo "</pre>";
+
+	
+
 	
 }
 
